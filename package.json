@@ -4,7 +4,8 @@
   "description": "* Runner will be a command line tool that will monitor any changes made in you code and will automatically restart your server. This app will be similar to 'nodemon'.",
   "main": "index.js",
   "dependencies": {
-    "chokidar": "^3.3.1"
+    "chokidar": "^3.3.1",
+    "lodash.debounce": "^4.0.8"
   },
   "devDependencies": {},
   "scripts": {
