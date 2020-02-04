@@ -1,0 +1,23 @@
+{
+  "name": "Runner",
+  "version": "1.0.0",
+  "description": "* Runner will be a command line tool that will monitor any changes made in you code and will automatically restart your server. This app will be similar to 'nodemon'.",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shownola/Runner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shownola/Runner/issues"
+  },
+  "homepage": "https://github.com/shownola/Runner#readme"
+}
